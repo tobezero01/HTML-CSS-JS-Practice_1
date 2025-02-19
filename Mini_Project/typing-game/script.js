@@ -29,7 +29,12 @@ const words = [
   'feeble',
   'admit',
   'drag',
-  'loving'
+  'loving',
+  'entrypoint',
+  'dance',
+  'architecture',
+  'comprehension',
+  'lookup'
 ];
 
 // Init word
@@ -39,7 +44,7 @@ let randomWord;
 let score = 0;
 
 // Init time
-let time = 10;
+let time = 20;
 
 // Set difficulty to value in ls or medium
 let difficulty =
